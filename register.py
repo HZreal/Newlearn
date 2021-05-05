@@ -3,3 +3,5 @@ for i in list:
     print(i)
 
 num = 1
+
+age = 2
