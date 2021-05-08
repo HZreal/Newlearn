@@ -5,3 +5,9 @@ for i in list:
 num = 1
 
 age = 2
+
+
+
+
+home = 'Beijing'
+
